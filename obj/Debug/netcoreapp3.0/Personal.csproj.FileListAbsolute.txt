@@ -1,0 +1,11 @@
+C:\Users\idybp\source\repos\Personal\bin\Debug\netcoreapp3.0\Personal.exe
+C:\Users\idybp\source\repos\Personal\bin\Debug\netcoreapp3.0\Personal.deps.json
+C:\Users\idybp\source\repos\Personal\bin\Debug\netcoreapp3.0\Personal.runtimeconfig.json
+C:\Users\idybp\source\repos\Personal\bin\Debug\netcoreapp3.0\Personal.runtimeconfig.dev.json
+C:\Users\idybp\source\repos\Personal\bin\Debug\netcoreapp3.0\Personal.dll
+C:\Users\idybp\source\repos\Personal\bin\Debug\netcoreapp3.0\Personal.pdb
+C:\Users\idybp\source\repos\Personal\obj\Debug\netcoreapp3.0\Personal.csprojAssemblyReference.cache
+C:\Users\idybp\source\repos\Personal\obj\Debug\netcoreapp3.0\Personal.AssemblyInfoInputs.cache
+C:\Users\idybp\source\repos\Personal\obj\Debug\netcoreapp3.0\Personal.AssemblyInfo.cs
+C:\Users\idybp\source\repos\Personal\obj\Debug\netcoreapp3.0\Personal.dll
+C:\Users\idybp\source\repos\Personal\obj\Debug\netcoreapp3.0\Personal.pdb
